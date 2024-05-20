@@ -151,9 +151,9 @@ function App() {
             </div> */}
             </motion.div>
           </ div>
-          {isTablateOrMobile ? <h3 style={{ color: '#3F3F3F' }}>Our website is currently undergoing scheduled <br />maintenence. we should be back shortly</h3> : <h3 style={{ color: '#3F3F3F' }}>Our website is currently undergoing scheduled<br />maintenence. we should be back shortly.</h3>}
+          {isTablateOrMobile ? <h3 style={{ color: '#3F3F3F' }}>Our website is currently undergoing scheduled <br />maintenence. we should be back shortly.</h3> : <h3 style={{ color: '#3F3F3F' }}>Our website is currently undergoing scheduled<br />maintenence. we should be back shortly.</h3>}
           <div className='group-email-button'>
-            <input type='text' className="email-input" placeholder="Email Address" />
+            <input type='text' className="email-input" placeholder="Enter Email Address" />
             <button className="button">Notify Me</button>
           </div>
 

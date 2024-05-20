@@ -171,7 +171,7 @@
   align-items: center;
   height: 100vh;
   width: 100vw;
-  background-color: #050505;
+  background-color: black;
 }
 
 .loader {
@@ -179,8 +179,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-image: url('../src/assets/giphy.gif');
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 @media (min-width: 900px) {
